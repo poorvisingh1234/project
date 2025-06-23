@@ -6,6 +6,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/poorvisingh1234/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0733-flood-fill](https://github.com/poorvisingh1234/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/poorvisingh1234/LeetCode/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/poorvisingh1234/LeetCode/tree/master/0733-flood-fill) |
+## Sorting
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
