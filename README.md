@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/poorvisingh1234/LeetCode/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/poorvisingh1234/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Tree
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/poorvisingh1234/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/poorvisingh1234/LeetCode/tree/master/0279-perfect-squares) |
 | [0733-flood-fill](https://github.com/poorvisingh1234/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/poorvisingh1234/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
