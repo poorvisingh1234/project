@@ -47,6 +47,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/poorvisingh1234/LeetCode/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/poorvisingh1234/LeetCode/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/poorvisingh1234/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Tree
 |  |
@@ -90,5 +91,6 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/poorvisingh1234/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/poorvisingh1234/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/poorvisingh1234/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
