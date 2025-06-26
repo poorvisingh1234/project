@@ -41,6 +41,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/poorvisingh1234/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/poorvisingh1234/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/poorvisingh1234/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/poorvisingh1234/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,8 +85,10 @@
 | [0231-power-of-two](https://github.com/poorvisingh1234/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/poorvisingh1234/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/poorvisingh1234/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/poorvisingh1234/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/poorvisingh1234/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/poorvisingh1234/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
