@@ -7,6 +7,7 @@
 | [0125-valid-palindrome](https://github.com/poorvisingh1234/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 | [0344-reverse-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/poorvisingh1234/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0812-rotate-string) |
 ## Array
 |  |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
