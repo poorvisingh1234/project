@@ -30,6 +30,7 @@
 | [0027-remove-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/poorvisingh1234/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0724-find-pivot-index](https://github.com/poorvisingh1234/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/poorvisingh1234/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/poorvisingh1234/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/poorvisingh1234/LeetCode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/poorvisingh1234/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
