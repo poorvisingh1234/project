@@ -36,6 +36,7 @@
 | [0733-flood-fill](https://github.com/poorvisingh1234/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/poorvisingh1234/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/poorvisingh1234/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
