@@ -32,6 +32,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poorvisingh1234/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/poorvisingh1234/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/poorvisingh1234/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0474-ones-and-zeroes](https://github.com/poorvisingh1234/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0724-find-pivot-index](https://github.com/poorvisingh1234/LeetCode/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/poorvisingh1234/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/poorvisingh1234/LeetCode/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/poorvisingh1234/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Matrix
