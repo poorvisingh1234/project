@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/poorvisingh1234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/poorvisingh1234/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/poorvisingh1234/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/poorvisingh1234/LeetCode/tree/master/0125-valid-palindrome) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/poorvisingh1234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -127,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/poorvisingh1234/LeetCode/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/poorvisingh1234/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/poorvisingh1234/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/poorvisingh1234/LeetCode/tree/master/0326-power-of-three) |
