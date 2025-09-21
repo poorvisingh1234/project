@@ -33,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/poorvisingh1234/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poorvisingh1234/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/poorvisingh1234/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/poorvisingh1234/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0162-find-peak-element) |
@@ -119,6 +120,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/poorvisingh1234/LeetCode/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/poorvisingh1234/LeetCode/tree/master/0733-flood-fill) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/poorvisingh1234/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/poorvisingh1234/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/poorvisingh1234/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/poorvisingh1234/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/poorvisingh1234/LeetCode/tree/master/0326-power-of-three) |
