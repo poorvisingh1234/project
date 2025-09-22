@@ -37,6 +37,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poorvisingh1234/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/poorvisingh1234/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/poorvisingh1234/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poorvisingh1234/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -133,6 +134,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/poorvisingh1234/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/poorvisingh1234/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
