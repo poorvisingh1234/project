@@ -38,6 +38,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poorvisingh1234/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/poorvisingh1234/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/poorvisingh1234/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/poorvisingh1234/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvisingh1234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0162-find-peak-element) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/poorvisingh1234/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/poorvisingh1234/LeetCode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/poorvisingh1234/LeetCode/tree/master/0733-flood-fill) |
 ## Sorting
 |  |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poorvisingh1234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/poorvisingh1234/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
