@@ -52,6 +52,7 @@
 | [0792-binary-search](https://github.com/poorvisingh1234/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/poorvisingh1234/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/poorvisingh1234/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/poorvisingh1234/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/poorvisingh1234/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/poorvisingh1234/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/poorvisingh1234/LeetCode/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/poorvisingh1234/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
