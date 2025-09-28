@@ -93,6 +93,7 @@
 | [0231-power-of-two](https://github.com/poorvisingh1234/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/poorvisingh1234/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/poorvisingh1234/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/poorvisingh1234/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0338-counting-bits](https://github.com/poorvisingh1234/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/poorvisingh1234/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [1013-fibonacci-number](https://github.com/poorvisingh1234/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0326-power-of-three](https://github.com/poorvisingh1234/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/poorvisingh1234/LeetCode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/poorvisingh1234/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,4 +232,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/poorvisingh1234/LeetCode/tree/master/0054-spiral-matrix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/poorvisingh1234/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
