@@ -11,6 +11,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/poorvisingh1234/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/poorvisingh1234/LeetCode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/poorvisingh1234/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/poorvisingh1234/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -27,6 +28,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/poorvisingh1234/LeetCode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/poorvisingh1234/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0812-rotate-string) |
 ## Array
@@ -69,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/poorvisingh1234/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/poorvisingh1234/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Stack
 |  |
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poorvisingh1234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
