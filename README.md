@@ -64,6 +64,7 @@
 | [0951-partition-array-into-disjoint-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/poorvisingh1234/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/poorvisingh1234/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poorvisingh1234/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/poorvisingh1234/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/poorvisingh1234/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poorvisingh1234/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/poorvisingh1234/LeetCode/tree/master/0567-permutation-in-string) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poorvisingh1234/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
 |  |
 | ------- |
