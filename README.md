@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/poorvisingh1234/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/poorvisingh1234/LeetCode/tree/master/0027-remove-element) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/poorvisingh1234/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/poorvisingh1234/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poorvisingh1234/LeetCode/tree/master/0018-4sum) |
@@ -210,6 +212,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/poorvisingh1234/LeetCode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/poorvisingh1234/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/poorvisingh1234/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/poorvisingh1234/LeetCode/tree/master/0680-valid-palindrome-ii) |
