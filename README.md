@@ -263,6 +263,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/poorvisingh1234/LeetCode/tree/master/0197-rising-temperature) |
+| [1390-average-selling-price](https://github.com/poorvisingh1234/LeetCode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/poorvisingh1234/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/poorvisingh1234/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/poorvisingh1234/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
