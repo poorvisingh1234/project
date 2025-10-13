@@ -266,6 +266,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/poorvisingh1234/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/poorvisingh1234/LeetCode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/poorvisingh1234/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/poorvisingh1234/LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/poorvisingh1234/LeetCode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/poorvisingh1234/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/poorvisingh1234/LeetCode/tree/master/1161-project-employees-i) |
