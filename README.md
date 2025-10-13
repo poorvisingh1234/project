@@ -263,6 +263,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/poorvisingh1234/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/poorvisingh1234/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/poorvisingh1234/LeetCode/tree/master/0584-find-customer-referee) |
 | [0626-exchange-seats](https://github.com/poorvisingh1234/LeetCode/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/poorvisingh1234/LeetCode/tree/master/1161-project-employees-i) |
